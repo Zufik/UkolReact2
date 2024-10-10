@@ -2,7 +2,7 @@ import './Dashboard.css'
 import Lights from './Lights/Lights'
 import Climate from './Climate/Climate'
 import Blinds from './Blinds/Blinds'
-import Energy from '../Energy/Energy'
+import Energy from './Energy/Energy'
 //props data lights, climate, blinds, energyConsumption
 
 
